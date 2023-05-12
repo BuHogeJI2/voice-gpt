@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+voices/
+
+config/default.json
